@@ -11,7 +11,7 @@
 }
 
 .buttonContainer {
-  width: 40%;
+  width: 35%;
   height: 100%;
   display: flex;
   align-items: center;
@@ -25,7 +25,7 @@
   color: white;
   border: none;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 1rem;
   transition: background-color 0.3s ease;
   font-weight: bold;
 }
@@ -35,10 +35,11 @@
   color: black;
   font-weight: bold;
 }
+
 .searchIcon {
-  margin-right: 40px;
+  margin-right: 2.5rem;
   color: white;
-  font-size: 16px;
+  font-size: 1rem;
   cursor: pointer;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
